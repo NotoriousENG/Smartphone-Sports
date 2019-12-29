@@ -1,4 +1,4 @@
-# README
+# Readme
 # Android:
 ## How to install an APK from your Android device:
   - Just open your browser, find the APK file you want to download, and tap it – you should then be able to see it downloading on the top bar of your device.
