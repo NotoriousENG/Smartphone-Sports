@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: c5768725df140ba45b4990dced4ce614
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: f9d140995de7096459a5f609748db34f
+  - enabled: 1
+    path: Assets/Scenes/Home0.unity
+    guid: aac09dcdce64d6c4da7baeded5f59680
+  - enabled: 1
+    path: Assets/Scenes/Trash.unity
+    guid: 13460a138066c6941974f302624bad4c
+  - enabled: 1
+    path: Assets/Scenes/Home1.unity
+    guid: 4494fe2ef11b17b458fb001a3ff45632
+  - enabled: 1
+    path: Assets/Scenes/Cars.unity
+    guid: 6d952405bce4d814b997cb8aca144cc1
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: cf66ce0ae4ff2e44ba0a88a4fdab436c
+  - enabled: 1
+    path: Assets/Scenes/Cars1.unity
+    guid: 9a90d5986878f4447b63c7d8d32c26ba
+  - enabled: 1
+    path: Assets/Scenes/Home2.unity
+    guid: dceee7c2bf934aa40af994a30df89aac
+  - enabled: 1
+    path: Assets/Scenes/Home3.unity
+    guid: 0a6821674468f594e81d8d716fb2ca7b
+  - enabled: 1
+    path: Assets/Scenes/Plane.unity
+    guid: 5ecfbce1a6a173e47a21795fd59d7ee6
+  - enabled: 1
+    path: Assets/Scenes/Plane1.unity
+    guid: ae7119eb0581c774a86690296fb490de
+  - enabled: 1
+    path: Assets/Scenes/Plane2.unity
+    guid: 3c8936a3e6b633c45b1fa08d4e5a9e69
+  - enabled: 1
+    path: Assets/Scenes/snow.unity
+    guid: 43b118625c0db6349a9dd8d8d03e82cd
+  - enabled: 1
+    path: Assets/Scenes/woods.unity
+    guid: d715edcfb055a4e4e9c590b69c866e1b
+  - enabled: 1
+    path: Assets/Scenes/snowCars.unity
+    guid: 6766d60b74c2dfe4c8b028344cac92bc
+  - enabled: 1
+    path: Assets/Scenes/enterPasscode.unity
+    guid: 2d3e325961a874044bcf05bab52efb38
+  - enabled: 1
+    path: Assets/Scenes/numPad.unity
+    guid: 57a4cced02022dd4a8620955e1972f7d
+  - enabled: 1
+    path: Assets/Scenes/run.unity
+    guid: 82174c8807ae938418174f4f2940fa90
+  - enabled: 1
+    path: Assets/Scenes/ad.unity
+    guid: 594b9f2af449e6f4e8a3b4035cd665f1
+  m_configObjects: {}
